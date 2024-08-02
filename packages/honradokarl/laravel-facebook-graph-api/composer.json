@@ -1,0 +1,18 @@
+{
+    "name": "honradokarl/laravel-facebook-graph-api",
+    "description": "Facebook Graph API Integration",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Honradokarl\\LaravelFacebookGraphApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karl Honrado",
+            "email": "honradokarljohn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
